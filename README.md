@@ -15,4 +15,4 @@ Visual feedback with color indicators (green/yellow/red)
 SEO Health score calcuation
 Preview cards for Google, Facebook, and Twitter.
 
-Referenceing Tina Huang - https://www.youtube.com/watch?v=iLCDSY2XX7E&t=1564s
+Thanks to Tina Huang - https://www.youtube.com/watch?v=iLCDSY2XX7E&t=1564s
