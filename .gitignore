@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# Local server output
+*.local
+
+# Misc
+*.log
+*.tmp
+
+# Ignore backend server runtime files
+server.log
+
+# Ignore coverage
+coverage/
+
+# Ignore production build
+build/
+
+# Build files
+dist/
