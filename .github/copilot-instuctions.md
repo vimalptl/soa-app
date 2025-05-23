@@ -30,4 +30,6 @@ Frontend:  React with latest webpack.
            Cheerio.js for parsing HTML
            Primereact for clean styles and UI.
 
+Start creating the react project then proceed with creating the application.
+use react best practices to layout this project.
 No authentication, no database - just fast, interactive alaysis.  The the UI minimalist and intutive.
